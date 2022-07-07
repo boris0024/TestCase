@@ -9,4 +9,4 @@
 
 Окружение: Chrome Версия 101.0.4951.67 (64 бит)
 
-![1](https://github.com/{boris0024}/{TestCase}/raw/{branch}/{path}/image.png)
+![1](https://github.com/boris0024/TestCase/blob/main/img/1.png)
