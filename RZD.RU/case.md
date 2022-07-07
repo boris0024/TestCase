@@ -8,3 +8,5 @@
 <strong>Фактический результат:</strong> "Не удается получить доступ к сайту"
 
 Окружение: Chrome Версия 101.0.4951.67 (64 бит)
+
+![1](https://github.com/{boris0024}/{TestCase}/raw/{branch}/{path}/image.png)
